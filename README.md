@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlotteDalson
+- 👋 Hi, I’m @IvanEmir
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning how to program on java script
 - 💞️ I’m looking to collaborate on nothing rigt now
